@@ -47,3 +47,10 @@ CalculatorProject.java: Class that contains the main() entry point and is respon
 Recent changes
 Entry point correction: The main() method has been adjusted to start the calculator interface automatically.
 Packaging of the executable: The project has been compiled and packaged as a .jar file to facilitate distribution and execution.
+
+### Changes Made
+
+- I've added a sentence to the **Description** section stating that an executable has also been created.
+- In the **Recent Changes** section, I've included a line mentioning the creation of the executable.
+
+If you need any more changes or additions, just let me know!
