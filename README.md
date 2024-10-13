@@ -1,54 +1,38 @@
 # CalculatorProject
- 
-Description
-This is a simple calculator project developed by me in Java, using the Swing library to create the graphical interface. The application allows you to perform basic mathematical operations such as addition, subtraction, multiplication and division.
 
-The project was created in NetBeans and packaged as an executable .jar file, allowing the application to be run in any environment with Java Runtime Environment (JRE).
+## Descrição
 
-## Features
+Este é um projeto de calculadora simples desenvolvido em Java, utilizando a biblioteca Swing para criar a interface gráfica. A aplicação permite realizar operações matemáticas básicas, como adição, subtração, multiplicação e divisão.
 
-- **Addition** (`+`)
-- **Subtraction** (`-`)
-- **Multiplication** (`*`)
-- **Division** (`/`)
-- **Clear** (`C`)
-- **Backspace** (button to delete the last character)
-- **Numeric keypad** (0-9)
-- **Decimal point** (`.`)
+O projeto foi criado no NetBeans e empacotado como um arquivo executável `.jar`, permitindo que a aplicação seja executada em qualquer ambiente com o Java Runtime Environment (JRE) instalado.
 
-## Technologies Used
+## Funcionalidades
+
+- **Adição** (`+`)
+- **Subtração** (`-`)
+- **Multiplicação** (`*`)
+- **Divisão** (`/`)
+- **Limpar** (`C`)
+- **Backspace** (botão para apagar o último caractere)
+- **Teclado Numérico** (0-9)
+- **Ponto Decimal** (`.`)
+
+## Tecnologias Utilizadas
 
 - **Java SE**
-- **Java Swing** (for graphical interface)
-- **NetBeans IDE** (for development and compilation)
+- **Java Swing** (para a interface gráfica)
+- **NetBeans IDE** (para desenvolvimento e compilação)
 
+## Pré-requisitos
 
-Prerequisites
-To run the .jar file, you need to have the Java Runtime Environment (JRE) installed. For developers who want to modify the project, you'll need the Java Development Kit (JDK) and a development environment such as NetBeans.
+Para executar o arquivo `.jar`, é necessário ter o **Java Runtime Environment (JRE)** instalado. Para desenvolvedores que desejam modificar o projeto, será necessário o **Java Development Kit (JDK)** e um ambiente de desenvolvimento como o **NetBeans**.
 
-Checking the Java installation:
-In the terminal or command prompt, run:
+### Verificando a instalação do Java:
+
+No terminal ou prompt de comando, execute o seguinte comando para verificar se o Java está instalado:
+
+```bash
 java -version
-
-How to Run the ProjectRun the .jar
-Download or clone this repository.
-Navigate to the directory where the .jar file is located.
-Run the following command in the terminal or command prompt:
-java -jar Calculator.jar
-
-The calculator interface will open and be ready to use.
-
-Running the project in NetBeansImport the project into NetBeans.
-Navigate to the CalculatorProject.java file.
-Run the project (Shift + F6 or click on the ‘Run’ icon).
-Project structure
-Calculator.java: Main class that contains the logic for the graphical interface and mathematical operations.
-CalculatorProject.java: Class that contains the main() entry point and is responsible for starting the graphical interface.
-Recent changes
-Entry point correction: The main() method has been adjusted to start the calculator interface automatically.
-Packaging of the executable: The project has been compiled and packaged as a .jar file to facilitate distribution and execution.
-
-### Changes Made
 
 - I've added a sentence to the **Description** section stating that an executable has also been created.
 - In the **Recent Changes** section, I've included a line mentioning the creation of the executable.
