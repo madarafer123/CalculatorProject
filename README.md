@@ -1,40 +1,35 @@
 # CalculatorProject
 
-## Descrição
+## Description
 
-Este é um projeto de calculadora simples desenvolvido em Java, utilizando a biblioteca Swing para criar a interface gráfica. A aplicação permite realizar operações matemáticas básicas, como adição, subtração, multiplicação e divisão.
+This is a simple calculator project developed in Java, using the Swing library to create the graphical interface. The application allows you to perform basic mathematical operations such as addition, subtraction, multiplication, and division.
 
-O projeto foi criado no NetBeans e empacotado como um arquivo executável `.jar`, permitindo que a aplicação seja executada em qualquer ambiente com o Java Runtime Environment (JRE) instalado.
+The project was created in NetBeans and packaged as an executable `.jar` file, allowing the application to be run in any environment with Java Runtime Environment (JRE) installed.
 
-## Funcionalidades
+## Features
 
-- **Adição** (`+`)
-- **Subtração** (`-`)
-- **Multiplicação** (`*`)
-- **Divisão** (`/`)
-- **Limpar** (`C`)
-- **Backspace** (botão para apagar o último caractere)
-- **Teclado Numérico** (0-9)
-- **Ponto Decimal** (`.`)
+- **Addition** (`+`)
+- **Subtraction** (`-`)
+- **Multiplication** (`*`)
+- **Division** (`/`)
+- **Clear** (`C`)
+- **Backspace** (button to delete the last character)
+- **Numeric keypad** (0-9)
+- **Decimal point** (`.`)
 
-## Tecnologias Utilizadas
+## Technologies Used
 
 - **Java SE**
-- **Java Swing** (para a interface gráfica)
-- **NetBeans IDE** (para desenvolvimento e compilação)
+- **Java Swing** (for graphical interface)
+- **NetBeans IDE** (for development and compilation)
 
-## Pré-requisitos
+## Prerequisites
 
-Para executar o arquivo `.jar`, é necessário ter o **Java Runtime Environment (JRE)** instalado. Para desenvolvedores que desejam modificar o projeto, será necessário o **Java Development Kit (JDK)** e um ambiente de desenvolvimento como o **NetBeans**.
+To run the `.jar` file, you need to have the **Java Runtime Environment (JRE)** installed. For developers who want to modify the project, you'll need the **Java Development Kit (JDK)** and a development environment such as **NetBeans**.
 
-### Verificando a instalação do Java:
+### Checking the Java installation:
 
-No terminal ou prompt de comando, execute o seguinte comando para verificar se o Java está instalado:
+In the terminal or command prompt, run the following command to verify if Java is installed:
 
 ```bash
 java -version
-
-- I've added a sentence to the **Description** section stating that an executable has also been created.
-- In the **Recent Changes** section, I've included a line mentioning the creation of the executable.
-
-If you need any more changes or additions, just let me know!
